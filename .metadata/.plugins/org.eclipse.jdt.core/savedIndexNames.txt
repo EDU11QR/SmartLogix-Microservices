@@ -25,7 +25,6 @@ INDEX VERSION 1.134+C:\Users\USUARIO\Downloads\ExamenT1\.metadata\.plugins\org.e
 3013998691.index
 221425680.index
 2311280780.index
-2694165415.index
 3845640955.index
 2133509592.index
 1255248601.index
