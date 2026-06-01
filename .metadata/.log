@@ -499,3 +499,12 @@ Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-
 !MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:5.0.1
 !SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-05-31 19:19:52.500
 !MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:5.0.1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-05-31 19:35:31.802
+!MESSAGE Classpath changed for project: inventario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-05-31 19:35:31.803
+!MESSAGE Boot project ADDED: inventario-service
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-05-31 19:35:32.987
+!MESSAGE Classpath changed for project: inventario-service
